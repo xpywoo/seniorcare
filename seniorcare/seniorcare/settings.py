@@ -90,9 +90,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'railway',
         'USER': 'postgres',
-        'PASSWORD': 'ACFa*CgGG5-bD64cC4*46E63*FgdcA33',
+        'PASSWORD': 'C1gcAE35F*cA34fBAEB6642*563D-3cA',
         'HOST': 'monorail.proxy.rlwy.net',  
-        'PORT': '16216',     
+        'PORT': '55644',     
     }
 }
 
