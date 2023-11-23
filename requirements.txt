@@ -35,7 +35,7 @@ Pillow>=7.0.0,<11.0.0
 pipenv==2023.9.8
 platformdirs==3.10.0
 psycopg2==2.9.9
-pycairo==1.25.1
+pycairo>=1.0.0,<2.0.0
 pycparser==2.21
 pyHanko==0.20.1
 pyhanko-certvalidator==0.24.1
