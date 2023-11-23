@@ -30,7 +30,7 @@ html5lib==1.1
 idna==3.4
 lxml==4.9.3
 multidict==6.0.4
-mysqlclient==2.2.0
+mysqlclient>=1.4.2,<2.0.0
 numpy>=1.15.0,<1.27.0
 opencv-python==4.8.1.78
 opencv-python-headless==4.8.1.78
