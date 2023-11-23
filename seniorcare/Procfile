@@ -1,1 +1,0 @@
-web gunicorn seniorcare.wsgi:application --log-file -
